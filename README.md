@@ -1,2 +1,0 @@
-# UAS-Alpro
-Tugas UAS (1D-21081000008)
